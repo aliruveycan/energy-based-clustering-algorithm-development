@@ -1,0 +1,15 @@
+/Users/aliruveycan/Projects/deneme/deneme/obj/Debug/net7.0/deneme.csproj.AssemblyReference.cache
+/Users/aliruveycan/Projects/deneme/deneme/obj/Debug/net7.0/deneme.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliruveycan/Projects/deneme/deneme/obj/Debug/net7.0/deneme.AssemblyInfoInputs.cache
+/Users/aliruveycan/Projects/deneme/deneme/obj/Debug/net7.0/deneme.AssemblyInfo.cs
+/Users/aliruveycan/Projects/deneme/deneme/obj/Debug/net7.0/deneme.csproj.CoreCompileInputs.cache
+/Users/aliruveycan/Projects/deneme/deneme/bin/Debug/net7.0/deneme
+/Users/aliruveycan/Projects/deneme/deneme/bin/Debug/net7.0/deneme.deps.json
+/Users/aliruveycan/Projects/deneme/deneme/bin/Debug/net7.0/deneme.runtimeconfig.json
+/Users/aliruveycan/Projects/deneme/deneme/bin/Debug/net7.0/deneme.dll
+/Users/aliruveycan/Projects/deneme/deneme/bin/Debug/net7.0/deneme.pdb
+/Users/aliruveycan/Projects/deneme/deneme/obj/Debug/net7.0/deneme.dll
+/Users/aliruveycan/Projects/deneme/deneme/obj/Debug/net7.0/refint/deneme.dll
+/Users/aliruveycan/Projects/deneme/deneme/obj/Debug/net7.0/deneme.pdb
+/Users/aliruveycan/Projects/deneme/deneme/obj/Debug/net7.0/deneme.genruntimeconfig.cache
+/Users/aliruveycan/Projects/deneme/deneme/obj/Debug/net7.0/ref/deneme.dll

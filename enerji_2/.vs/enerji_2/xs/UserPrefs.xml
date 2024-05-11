@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{96D13B77-EE9A-4625-81A4-AC46398DCEE8}|Default">
+  <MonoDevelop.Ide.ItemProperties.enerji__2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="enerji_2/Program.cs">
+    <Files>
+      <File FileName="enerji_2/Program.cs" Line="149" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="enerji_2" expanded="True">
+            <Node name="enerji_2" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

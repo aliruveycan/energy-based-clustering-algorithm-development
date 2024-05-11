@@ -1,0 +1,15 @@
+/Users/aliruveycan/Projects/enerji_2/enerji_2/bin/Debug/net7.0/enerji_2
+/Users/aliruveycan/Projects/enerji_2/enerji_2/bin/Debug/net7.0/enerji_2.deps.json
+/Users/aliruveycan/Projects/enerji_2/enerji_2/bin/Debug/net7.0/enerji_2.runtimeconfig.json
+/Users/aliruveycan/Projects/enerji_2/enerji_2/bin/Debug/net7.0/enerji_2.dll
+/Users/aliruveycan/Projects/enerji_2/enerji_2/bin/Debug/net7.0/enerji_2.pdb
+/Users/aliruveycan/Projects/enerji_2/enerji_2/obj/Debug/net7.0/enerji_2.csproj.AssemblyReference.cache
+/Users/aliruveycan/Projects/enerji_2/enerji_2/obj/Debug/net7.0/enerji_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliruveycan/Projects/enerji_2/enerji_2/obj/Debug/net7.0/enerji_2.AssemblyInfoInputs.cache
+/Users/aliruveycan/Projects/enerji_2/enerji_2/obj/Debug/net7.0/enerji_2.AssemblyInfo.cs
+/Users/aliruveycan/Projects/enerji_2/enerji_2/obj/Debug/net7.0/enerji_2.csproj.CoreCompileInputs.cache
+/Users/aliruveycan/Projects/enerji_2/enerji_2/obj/Debug/net7.0/enerji_2.dll
+/Users/aliruveycan/Projects/enerji_2/enerji_2/obj/Debug/net7.0/refint/enerji_2.dll
+/Users/aliruveycan/Projects/enerji_2/enerji_2/obj/Debug/net7.0/enerji_2.pdb
+/Users/aliruveycan/Projects/enerji_2/enerji_2/obj/Debug/net7.0/enerji_2.genruntimeconfig.cache
+/Users/aliruveycan/Projects/enerji_2/enerji_2/obj/Debug/net7.0/ref/enerji_2.dll
